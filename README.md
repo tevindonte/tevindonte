@@ -8,8 +8,9 @@
 
 ----------
 
-* 👨‍🎓 Math Alum of Iona University
-* 🦟 Data and Software Enthusiast
+* Bachelor's of Science in Mathematics
+* Master's of Science in Artificial Intelligence and Machine Learning
+* PhD Student in AI @ Cumberland
 * 🌍  I'm based in New York & Hartford Conneticut
 * 🖥️  See my website [here](https://www.jmcanboy.com/)
 
